@@ -1,7 +1,3 @@
-for(let i = 1; i<=3; i++) {
-    nota = Number(input.require(`Informe a nota ${i} do aluno: `))
-
-    soma += nota
+for (i = 0; i < arr.length; i++) {
+    console.log(arr[i])
 }
-
-console.log(soma)
