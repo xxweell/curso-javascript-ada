@@ -74,9 +74,3 @@ console.clear()
 console.log('Array1 normal: ', arr)
 let arrInvertido = arr.reverse()
 console.log('Array1 invertido: ', arrInvertido)
-
-
-
-
-
-
